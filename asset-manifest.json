@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/savovsky/address-book-demo/static/css/main.d1b05096.chunk.css",
-    "main.js": "/savovsky/address-book-demo/static/js/main.cec9e708.chunk.js",
-    "main.js.map": "/savovsky/address-book-demo/static/js/main.cec9e708.chunk.js.map",
-    "runtime-main.js": "/savovsky/address-book-demo/static/js/runtime-main.a966ce39.js",
-    "runtime-main.js.map": "/savovsky/address-book-demo/static/js/runtime-main.a966ce39.js.map",
-    "static/js/2.7ea09d82.chunk.js": "/savovsky/address-book-demo/static/js/2.7ea09d82.chunk.js",
-    "static/js/2.7ea09d82.chunk.js.map": "/savovsky/address-book-demo/static/js/2.7ea09d82.chunk.js.map",
-    "index.html": "/savovsky/address-book-demo/index.html",
-    "precache-manifest.5da159f2d8c229344e205eaab26397a8.js": "/savovsky/address-book-demo/precache-manifest.5da159f2d8c229344e205eaab26397a8.js",
-    "service-worker.js": "/savovsky/address-book-demo/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/savovsky/address-book-demo/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.7ea09d82.chunk.js.LICENSE": "/savovsky/address-book-demo/static/js/2.7ea09d82.chunk.js.LICENSE",
-    "static/media/logo.svg": "/savovsky/address-book-demo/static/media/logo.5d5d9eef.svg"
+    "main.css": "/address-book-demo/static/css/main.d1b05096.chunk.css",
+    "main.js": "/address-book-demo/static/js/main.eece08f5.chunk.js",
+    "main.js.map": "/address-book-demo/static/js/main.eece08f5.chunk.js.map",
+    "runtime-main.js": "/address-book-demo/static/js/runtime-main.f424bf34.js",
+    "runtime-main.js.map": "/address-book-demo/static/js/runtime-main.f424bf34.js.map",
+    "static/js/2.7ea09d82.chunk.js": "/address-book-demo/static/js/2.7ea09d82.chunk.js",
+    "static/js/2.7ea09d82.chunk.js.map": "/address-book-demo/static/js/2.7ea09d82.chunk.js.map",
+    "index.html": "/address-book-demo/index.html",
+    "precache-manifest.bf9485f446e562cc38b4088c17b0bc3a.js": "/address-book-demo/precache-manifest.bf9485f446e562cc38b4088c17b0bc3a.js",
+    "service-worker.js": "/address-book-demo/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/address-book-demo/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.7ea09d82.chunk.js.LICENSE": "/address-book-demo/static/js/2.7ea09d82.chunk.js.LICENSE",
+    "static/media/logo.svg": "/address-book-demo/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a966ce39.js",
+    "static/js/runtime-main.f424bf34.js",
     "static/js/2.7ea09d82.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.cec9e708.chunk.js"
+    "static/js/main.eece08f5.chunk.js"
   ]
 }
